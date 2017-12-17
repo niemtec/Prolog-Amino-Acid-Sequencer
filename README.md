@@ -1,7 +1,8 @@
 # Amino Acid DNA Sequencer
 An amino acid sequencer written in PROLOG as part of 2015 Logic and Computation Course at Brunel University London.
-
 This project involves the analysis of protein sequences, DNA sequences and amino acids.
+
+![alt=text](https://media1.shmoop.com/images/biology/biobook_dna_graphik_22.png "Sequences")
 
 ## Functions
 This solution performs the following functions:
